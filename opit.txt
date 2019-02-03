@@ -1,2 +1,3 @@
 tuk se opitvam da pisha neshto
-dobawka ot semirb
+
+Meriem popravi bug-a 
